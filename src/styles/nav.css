@@ -1,0 +1,27 @@
+.nav {
+  max-width: 100px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 0 25px;
+  padding-top: 30px;
+}
+.nav img {
+  display: flex;
+  max-width: 100%;
+  cursor: pointer;
+}
+h1{
+  color: transparent;
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
+  background: url('../images/back.png');
+  -webkit-background-clip: text;
+  background-position: 0 0;
+  animation: layering 20s linear infinite;
+}
+
+@keyframes layering{
+  100%{
+    background-position: 2000px 0;
+  }
+}
