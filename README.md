@@ -1,3 +1,7 @@
+# Ready application on:
+https://chat-application-webwiza-90620.web.app/
+https:/chat-application-webwiza-90620.web.app/nav
+https:/chat-application-webwiza-90620.web.app/chats
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
