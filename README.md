@@ -1,3 +1,16 @@
+# Team Information
+Team Leader - Vansh
+UID: 21BCS5112
+Contact no. - 9306308939
+
+Second member - Saumya Srivastava
+UID: 21BCS4797
+Contact no - 7800059314
+
+Third member - Priyansh Pal
+UID: 21BCS4432
+Contact no - 9870682187
+
 # Ready application on:
 # https://chat-application-webwiza-90620.web.app/
 # https://chat-application-webwiza-90620.web.app/nav
